@@ -1,3 +1,4 @@
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Suji's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
 <h3 align="center"> 🌱백엔드 개발자🌱</h3>
@@ -24,6 +25,6 @@
 </p>
 </br>
 
- <div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzzzzzy)](https://github.com/Suzzzzzy/github-readme-stats)
 </div>

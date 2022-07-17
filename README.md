@@ -1,6 +1,6 @@
-<div align="center">
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Suji's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Suji's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<div align="center">
 <h3 align="center"> 🌱백엔드 개발자🌱</h3>
 <p align="center">
 💡 물음표를 쫓으며 깊은 탐구를 통해 성장하는 것을 느낍니다. <br/>

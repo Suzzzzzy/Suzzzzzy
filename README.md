@@ -26,5 +26,5 @@
 
 <h3 align="center"> ⌨️ Github stats ⌨️ </h3>
 <p align="center">
-[![Suji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzzzzzy)](https://github.com/Suzzzzzy/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzzzzzy)](https://github.com/Suzzzzzy/github-readme-stats)
 </p>

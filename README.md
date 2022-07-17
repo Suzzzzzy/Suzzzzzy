@@ -24,7 +24,6 @@
 </p>
 </br>
 
-<h3 align="center"> ⌨️ Github stats ⌨️ </h3>
-
+ <div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzzzzzy)](https://github.com/Suzzzzzy/github-readme-stats)
-
+</div>

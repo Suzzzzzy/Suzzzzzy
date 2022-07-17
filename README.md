@@ -19,5 +19,7 @@
 <p align="center">
 <a href="mailto:suji9709@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.notion.so/b81afe87769341b3a2c232448f88b23f"/><img src ="https://img.shields.io/badge/-RESUME-blue"/></a>
-
 </p>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzzzzzy)](https://github.com/anuraghazra/github-readme-stats)

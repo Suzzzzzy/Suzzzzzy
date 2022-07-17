@@ -15,7 +15,7 @@
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
   </p>
   
-<h3 align="center"> ☎️ Contact ☎️ </h3>
+<h3 align="center"> 📩 Contact 📩 </h3>
 <p align="center">
 <a href="mailto:suji9709@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.notion.so/b81afe87769341b3a2c232448f88b23f"/><img src ="https://img.shields.io/badge/-RESUME-blue"/></a>

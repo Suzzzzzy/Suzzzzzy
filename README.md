@@ -17,5 +17,6 @@
   
 <h3 align="center"> ☎️ Contact ☎️ </h3>
 <p align="center">
-<img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:suji9709@gmail.com"><img alt="Gmail" src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.notion.so/b81afe87769341b3a2c232448f88b23f"/><img alt="Gmail" src ="https://img.shields.io/badge/About.me-00A98F.svg?&style=flat-square&logo=About.me&logoColor=white"/></a>
 </p>

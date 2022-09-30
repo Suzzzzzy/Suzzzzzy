@@ -14,7 +14,9 @@
 <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white"/> 
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> <br/> 
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
-<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
+<img alt="Go" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=flat-square&logo=MongoDB&logoColor=white"/>
+<img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/> 
+<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
   </p>
   
 </br>

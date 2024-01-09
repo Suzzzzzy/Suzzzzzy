@@ -15,7 +15,6 @@
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
 <img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?&style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=flat-square&logo=mysql&logoColor=white"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=flat-square&logo=mysql&logoColor=white"/>
 
 
   </p>

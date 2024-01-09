@@ -18,7 +18,6 @@
   
 <img alt="Jira" src="https://img.shields.io/badge/jira-0052CC?&style=flat-square&logo=jira&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/RESTAPI-58A616?&style=flat-square&logo=REST-API&logoColor=white"/>
-<img alt="Jira" src="https://img.shields.io/badge/RESTAPI-58A616?&style=flat-square&logo=REST-API&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/gRPC-34A7C1?&style=flat-square&logo=gRPC&logoColor=white"/>
 
 

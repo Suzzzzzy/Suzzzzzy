@@ -32,6 +32,12 @@
 </p>
 </br>
 
+<h3 align="center"> 📝 Blog 📝 </h3>
+<p align="center">
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suji)](https://velog.io/@suji9709/posts)
+</p>
+</br>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Suzzzzzy)](https://github.com/Suzzzzzy/github-readme-stats)
 </div>

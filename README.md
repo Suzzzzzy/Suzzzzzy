@@ -13,6 +13,11 @@
 <img alt="Go" src ="https://img.shields.io/badge/Go-47A248.svg?&style=flat-square&logo=Go&logoColor=white"/>
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E.svg?&style=flat-square&logo=Amazon AWS&logoColor=white"/> 
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=flat-square&logo=Docker&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/postgresql-4169E1?&style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=flat-square&logo=mysql&logoColor=white"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1?&style=flat-square&logo=mysql&logoColor=white"/>
+
+
   </p>
   
 </br>

@@ -34,8 +34,7 @@
 
 <h3 align="center"> 📝 Blog 📝 </h3>
 <p align="center">
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suji)](https://github.com/Suzzzzzy/velog-readme-stats)
-</p>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=suji)](https://github.com/eungyeole/velog-readme-stats)</p>
 </br>
 
 
